@@ -1,11 +1,6 @@
-#### React Router Fix
+## CocktailDB
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+A multi-page React web application allowing users to search for their favourite cocktail recipes.
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
+Live web: https://ferguson-shuai-cocktaildb-react.netlify.app/
+API called: https://www.thecocktaildb.com/api.php
